@@ -1,3 +1,6 @@
 # https://willtern1.github.io/Board/
 ## Board
-### HTML. CSS, JS
+
+### Cтек: HTML. CSS, JS
+
+#### Доска с изменением цвета его квадратов-секторов при наведении мыши 
